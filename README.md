@@ -1,2 +1,2 @@
 # git-basics-project
-my first gi project
+my first git project
